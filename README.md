@@ -6,6 +6,7 @@ This project performs Exploratory Data Analysis (EDA) on e-commerce sales datase
 ---
 
 ## Project Overview
+---
 The goal of this project is to analyze transactional e-commerce data to understand key business metrics such as revenue per category, product sales volume, and customer payment behaviors across different global regions.
 
 ---
@@ -26,8 +27,8 @@ The dataset (`ecommerce_sales_data.csv`) contains **220 order records** with the
 
 ---
 
-## 🛠️ Tools & Libraries Used
-- **Python** 🐍
+##  Tools & Libraries Used
+- **Python** 
 - **Pandas**: Data manipulation and aggregation
 - **Matplotlib**: Basic charts and plotting
 - **Seaborn**: Advanced statistical data visualisations
