@@ -6,7 +6,6 @@ This project performs Exploratory Data Analysis (EDA) on e-commerce sales datase
 ---
 
 ## Project Overview
----
 The goal of this project is to analyze transactional e-commerce data to understand key business metrics such as revenue per category, product sales volume, and customer payment behaviors across different global regions.
 
 ---
