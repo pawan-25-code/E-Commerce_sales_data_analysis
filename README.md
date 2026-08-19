@@ -1,5 +1,5 @@
 # E-Commerce_sales_data_analysis
-<b>Author= Pawan kumar</b>
+Author= Pawan kumar
 
 This project performs Exploratory Data Analysis (EDA) on e-commerce sales dataset to uncover insights regarding sales revenue, product demand, and regional payment preferences.
 
